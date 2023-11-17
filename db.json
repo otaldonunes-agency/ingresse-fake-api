@@ -1,0 +1,8 @@
+{
+  "events": [
+    { "id": "5e0b660e-42c3-4f5a-aed6-c98d5afaf337", "name": "Test event 1", "location": "test location 1", "date": "test date 1", "image": "test image 1" },
+    { "id": "1e2ef06f-b2c7-4bf2-a61b-5fdccfaa00e6", "name": "Test event 2", "location": "test location 2", "date": "test date 2", "image": "test image 2" },
+    { "id": "a6614618-ecdb-414a-9f83-da9ac1f2a6d4", "name": "Test event 3", "location": "test location 3", "date": "test date 3", "image": "test image 3" },
+    { "id": "15d47d1a-6fb3-4b93-926b-fd3a192b31e5", "name": "Test event 4", "location": "test location 4", "date": "test date 4", "image": "test image 4" }
+  ]
+}
